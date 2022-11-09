@@ -95,4 +95,7 @@ Pour effacer la branche devenue inutile:
 ### Cloner un repository ou un gist
 
 	git clone path_du_repository_ou_du_gist path_du_repertoire_a_creer_en_local
+	
+### Changer d'éditeur de texte par défaut globalement
 
+	git config --local core.editor "vi"
