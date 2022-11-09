@@ -98,3 +98,7 @@ Pour effacer la branche devenue inutile:
 ### Changer d'éditeur de texte par défaut globalement
 
 	git config --global core.editor "vi"
+	
+### Liste des configurations
+
+	git config --list --show-origin
