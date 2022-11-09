@@ -4,12 +4,16 @@
 ### Initier un projet. 
 
 #### Vous n'avez encore rien fait dans votre projet.
+
 	git init mon_projet
+
 Cela va créér un répertoire "mon_projet" dans le dossier courant.
 
 #### Vous avec déjà débuté votre projet.
 Votre répertoire "mon_projet" existe donc déjà, et il contient déjà des fichiers. Placez vous dans votre répertoire et exécutez la commande suivante:
+
 	git init
+
 ### Ajoutez des fichiers à votre git.
 
 Votre répertoire contient des fichiers, il faut les ajouter à git pour qu'il puisse tenir compte de ces fichiers.
